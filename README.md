@@ -1,4 +1,4 @@
-# Flap Duo Birds (<a href="https://cocos.com/en/">cocos2d-x</a>)
+# Flap Duo Birds (<a href="https://www.cocos.com/en/">Cocos2d-x</a>)
 
 Play the flapping bird game with double birds. These flapping birds can fly and flap together. If one hit there's still one left, so don't worry to lose early. You can flapping them and always get the highest score.
 
